@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rakoulux/rakoulux.github.io/static/css/main.5dc72abb.css",
+    "main.js": "/rakoulux/rakoulux.github.io/static/js/main.12827684.js",
+    "static/js/453.b81273f3.chunk.js": "/rakoulux/rakoulux.github.io/static/js/453.b81273f3.chunk.js",
+    "index.html": "/rakoulux/rakoulux.github.io/index.html",
+    "main.5dc72abb.css.map": "/rakoulux/rakoulux.github.io/static/css/main.5dc72abb.css.map",
+    "main.12827684.js.map": "/rakoulux/rakoulux.github.io/static/js/main.12827684.js.map",
+    "453.b81273f3.chunk.js.map": "/rakoulux/rakoulux.github.io/static/js/453.b81273f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dc72abb.css",
+    "static/js/main.12827684.js"
+  ]
+}
