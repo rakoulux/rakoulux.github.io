@@ -1,0 +1,23 @@
+{
+    "Participant" : [
+        "KIS BALINT, Développement web & intégration",
+        "TITOUAN CRESSENT, Réalisation montage",
+        "Adrien Basset, Rédaction & recherche documentaire",
+        "William Wjeux, Réalisation interview"
+  ],
+    "Source" : [
+        "https://www.ladepeche.fr/",
+        "https://www.ina.fr/", 
+        "https://www.confrerieducassoulet.com/",
+        "https://www.auvillage.fr/",
+        "https://www.lejournaltoulousain.fr/"
+    ],
+    "ExplicationPage" : {
+        "LeCassoulet" : "Il s’agit de la page d’accueil",
+        "Histoire" : "Cette page décrit l’histoire du cassoulet",
+        "Description" : "Il s’agit d’une description du cassoulet",
+        "Reportage" : "Il s’agit de l’interview",
+        "APropos" : "La page de remerciement et autre"
+    },
+    "" : ""
+}
