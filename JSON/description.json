@@ -1,0 +1,30 @@
+{
+    "bacon": {
+        "description": "Le bacon, légèrement fumé et croustillant une fois revenu, diffuse ses arômes dans tout le plat. Son gras fondant vient enrober les haricots et les viandes, ajoutant une profondeur savoureuse et une texture irrésistible au cassoulet.",
+        "imagePath": "/Images/bacon.png"
+    },
+    "canard": {
+        "description": "Le confit de canard, cuit lentement dans sa propre graisse, est l’âme du cassoulet. Sa chair moelleuse, imprégnée de saveurs rustiques, se mêle harmonieusement aux autres ingrédients pour offrir un goût riche et inimitable.",
+        "imagePath": "/Images/canard.png"
+    },
+    "haricot": {
+        "description": "Les haricots blancs, souvent de type lingot, absorbent durant des heures les sucs des viandes, des aromates et de la sauce. Fondants en bouche, ils forment la trame onctueuse du cassoulet, tout en étant nourrissants et doux.",
+        "imagePath": "/Images/haricot.png"
+    },
+    "huileOlive": {
+        "description": "Utilisée en début de préparation, l’huile d’olive permet de faire revenir les viandes et les légumes. Son parfum fruité et sa rondeur apportent une touche méditerranéenne subtile qui enrichit la palette aromatique du plat.",
+        "imagePath": "/Images/huileOlive.png"
+    },
+    "porcs": {
+        "description": "Le porc, qu’il s’agisse d’échine, de jarret ou de poitrine, offre une texture généreuse et une saveur profondément charnue. Sa cuisson lente dans le cassoulet libère un jus savoureux qui imprègne toute la préparation.",
+        "imagePath": "/Images/porcs.png"
+    },
+    "sauceTomate": {
+        "description": "La sauce tomate, souvent composée de tomates concassées et d’aromates, vient lier tous les ingrédients. Elle ajoute une touche d’acidité équilibrée, contrebalançant le gras des viandes et rehaussant les arômes du plat.",
+        "imagePath": "/Images/sauceTomate.png"
+    },
+    "saucisse": {
+        "description": "La saucisse de Toulouse, faite de chair de porc hachée grossièrement et assaisonnée avec soin, est incontournable. Elle libère, à la cuisson, ses sucs parfumés qui parfument le cassoulet d’une note chaude et réconfortante.",
+        "imagePath": "/Images/saucisse.png"
+    }
+}
