@@ -1,0 +1,62 @@
+{
+    "frise_chronologique_cassoulet": [
+      {
+        "date": "VIIe siècle",
+        "evenement": "Introduction supposée de la fève blanche dans le sud de la France par les Arabes, qui enseignent aux habitants à cuisiner cette légumineuse dans des ragoûts de viande."
+      },
+      {
+        "date": "1226",
+        "evenement": "Rédaction à Bagdad d’un traité de cuisine décrivant un ragoût de mouton aux fèves, possible source d’inspiration pour la cuisine médiévale européenne."
+      },
+      {
+        "date": "XIVe siècle",
+        "evenement": [
+          "Guillaume Tirel, dit Taillevent, publie « Le Viandier », mentionnant des ragoûts de mouton et porc aux fèves.",
+          "Apparition du terme « héricot » (du vieux français « héricoter », découper), désignant un ragoût mijoté.",
+          "Création de la cassole par les potiers d’Issel, près de Castelnaudary : ce plat en terre cuite donne son nom au cassoulet."
+        ]
+      },
+      {
+        "date": "1355",
+        "evenement": "Mise à sac de Castelnaudary par le Prince Noir lors de la Guerre de Cent Ans, épisode à l’origine de la légende de la naissance du cassoulet (plat communautaire pour soutenir les défenseurs de la ville)."
+      },
+      {
+        "date": "Début du XVIe siècle",
+        "evenement": "Remplacement progressif des fèves par le haricot blanc, rapporté d’Amérique par Christophe Colomb (introduit en France vers 1530)."
+      },
+      {
+        "date": "1553",
+        "evenement": "Catherine de Médicis, comtesse du Lauragais, favorise la culture du haricot dans la région."
+      },
+      {
+        "date": "1637",
+        "evenement": "Un curé d’Agde cultive le haricot, qui se répand dans le Sud-Ouest sous les noms de flaviols ou mounjetas."
+      },
+      {
+        "date": "XVIIe siècle",
+        "evenement": "Le cassoulet, encore appelé estouffet ou ragoût, évolue avec la grande cuisine française."
+      },
+      {
+        "date": "XVIIIe siècle",
+        "evenement": "Le plat prend officiellement le nom de « cassoulet »."
+      },
+      {
+        "date": "1836",
+        "evenement": "Création de la première fabrique industrielle de cassoulet à Castelnaudary (Maison Bouissou, marque « La Renommée »)."
+      },
+      {
+        "date": "1853",
+        "evenement": "L’eau de la source « Co d’en Sens » commence à alimenter Castelnaudary, utilisée pour tremper les haricots du cassoulet."
+      },
+      {
+        "date": "1909",
+        "evenement": "La recette officielle du cassoulet de Castelnaudary est fixée."
+      },
+      {
+        "date": "1929",
+        "evenement": "Prosper Montagné, chef carcassonnais, consacre la suprématie du cassoulet de Castelnaudary dans « Le Festin Occitan »."
+      }
+    ],
+    "source": "https://www.confrerieducassoulet.com/l-histoire.html"
+  }
+  
